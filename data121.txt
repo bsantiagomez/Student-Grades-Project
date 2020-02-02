@@ -1,0 +1,10 @@
+3450, Guido VanRossum, 10, 15, 14, 18, 20
+6120, Yukihiro Matsumoto, 10, 9, 13, 12, 14
+9230, James Gosling, 10, 16, 13, 12, 10
+2340, Dennis Ritchie, 11, 15, 14, 18, 11
+3180, Kathleen Booth, 9, 11, 14, 18, 12
+7800, Bjarne Stroustrup, 18, 20, 20, 19, 20
+5410, Rasnus Lerdorf, 10, 12, 14, 18, 20
+1590, Larry Wall, 12, 15, 14, 16, 8
+2170, Brendan Eich, 20, 15, 14, 18, 20
+6530, Ada Lovelace, 10, 5, 14, 8, 10
